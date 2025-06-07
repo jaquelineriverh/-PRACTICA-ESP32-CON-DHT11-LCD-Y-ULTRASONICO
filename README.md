@@ -154,7 +154,10 @@ Cuando haya funcionado, verás los valores dentro del LCD 16x2 como se muestra e
 ![](https://github.com/jaquelineriverh/-PRACTICA-ESP32-CON-DHT11-LCD-Y-ULTRASONICO/blob/main/resultados%20para%20distancia.png)
 
 
-![](
+
+
+
+![](https://github.com/jaquelineriverh/-PRACTICA-ESP32-CON-DHT11-LCD-Y-ULTRASONICO/blob/main/resultados%20para%20temperatura.png)
 
 ### Evidencias
 
