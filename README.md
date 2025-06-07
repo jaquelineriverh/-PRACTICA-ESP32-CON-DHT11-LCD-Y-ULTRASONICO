@@ -131,7 +131,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 5.Hacer la conexion de LCD con la ESP32 como se muestra en la siguente imagen.
 
 
-![]()
+![](https://github.com/jaquelineriverh/-PRACTICA-ESP32-CON-DHT11-LCD-Y-ULTRASONICO/blob/main/ULTRASONIC%20CON%20LCD.png)
 
 
 6.Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
