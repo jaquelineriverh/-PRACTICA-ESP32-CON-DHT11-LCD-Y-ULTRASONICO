@@ -122,10 +122,10 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 ![](https://github.com/jaquelineriverh/PRACTICA-2-ESP32-CON-DHT11-Y-Lcd/blob/main/libreria%20liquid.png)
 
 
+4.Hacer la conexion de HC-SR04 ULTRASONIC Distance sensor con la ESP32 como se muestra en la siguente imagen.
 
-4.Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
+![](https://github.com/jaquelineriverh/-PRACTICA-ESP32-CON-DHT11-LCD-Y-ULTRASONICO/blob/main/ULTRASONICO%20CONEXION.png)
 
-![]()
 
 
 5.Hacer la conexion de LCD con la ESP32 como se muestra en la siguente imagen.
@@ -133,9 +133,11 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 
 ![]()
 
-6.Hacer la conexion de HC-SR04 ULTRASONIC Distance sensor con la ESP32 como se muestra en la siguente imagen.
+
+6.Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
 
 ![]()
+
 
 ### Instrucciónes de operación
 1.Iniciar simulador.
